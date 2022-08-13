@@ -146,8 +146,8 @@ const work = {
   {
     img: bloorview,
     color: "#01ae07",
-    company: "Holland Bloorview Kids Rehabilitation Hospital",
-    role: "Computer Engineering Research Assistant",
+    company: "Holland Bloorview", // Kids Rehabilitation Hospital",
+    role: "Research Assistant", //"Computer Engineering Research Assistant",
     location: "Toronto, Ontario",
     timeline: "Summer 2018, Summer 2019",
     description: "Designed, tested and implemented a data acquisition/biofeedback system to measure and improve gait in lower limb amputees (C++). Implemented a program to efficiently sort and analyze data returned from a biofeedback system (Matlab). Developed algorithm to make accurate interpretations of readings from force sensing resistors (C++)."
