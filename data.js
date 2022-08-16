@@ -162,4 +162,4 @@ const data = {
   footer: footer
 }
 
-export default data;
+module.exports = { data };
