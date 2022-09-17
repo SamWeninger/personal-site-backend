@@ -132,7 +132,7 @@ const work = {
     role: "Software Engineer",
     location: "Bellevue, Washington",
     timeline: "September 2022 - Present",
-    description: "Bing"
+    description: "Software Engineer on the Web Experiences Team (WebXT) team at Microsoft."
   },
   {
     img: huawei,
